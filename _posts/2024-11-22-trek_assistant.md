@@ -1,9 +1,11 @@
 ---
 title: "Trek Assistant"
+image: "/assets/images/screenshots/trek_assistant/ta_console.jpg"
 subtitle: "Home assistant system project"
 date: 2024-11-22
 categories: [Blog]
 tags: [Home Assistant, Android, AI, Data, Automation]
+comments: true
 ---
 
 Here you can see the first screenshots of my home assistant system project *Trek Assistant*. Descriptions will follow:
