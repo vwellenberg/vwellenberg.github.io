@@ -5,7 +5,7 @@ categories: [Blog]
 tags: [Home Assistant, Android, AI, Data, Automation]
 ---
 
-Hier sind erste Screenshots meines Home Assistant-Projektes *Trek Assistant* zu sehen. Beschreibungen folgen:
+Here you can see the first screenshots of my home assistant system project *Trek Assistant*. Descriptions will follow:
 
 ![Main](/assets/images/screenshots/trek_assistant/ta_main.jpg)
 
