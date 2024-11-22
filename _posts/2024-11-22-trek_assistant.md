@@ -1,5 +1,6 @@
 ---
 title: "Trek Assistant"
+subtitle: "Home assistant system project"
 date: 2024-11-22
 categories: [Blog]
 tags: [Home Assistant, Android, AI, Data, Automation]
