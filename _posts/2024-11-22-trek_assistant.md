@@ -1,6 +1,6 @@
 ---
 title: "Trek Assistant"
-image: "/assets/images/screenshots/trek_assistant/ta_console.jpg"
+image: "/assets/images/screenshots/trek_assistant/ta_main.jpg"
 subtitle: "Home assistant system project"
 date: 2024-11-22
 categories: [Blog]
