@@ -16,7 +16,8 @@ timezone: Europe/Berlin
 
 title: Vincent Wellenberg # the main title
 
-tagline: Crafting data and AI driven solutions byte by byte.  # it will display as the subtitle
+# Crafting ... (?)
+tagline: Engineering data and AI driven solutions.  # it will display as the subtitle
 
 # TODO change the description for seo
 description: >- # used by seo meta and the atom feed
