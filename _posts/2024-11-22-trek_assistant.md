@@ -18,10 +18,10 @@ This is a partial overview of the app's functionalities:
 - Server control (restart, stop)
 - Screenshot
 - Timer (create, list, stop)
-- GPT-Chat
+- GPT chat
 - Auto shutdown
 - Weather report
-- Process Management (list, search)
+- Process management (list, search)
 - Close programs
 - Reminder (set, cancel, list)
 - File search
@@ -44,7 +44,6 @@ This is a partial overview of the app's functionalities:
 - Remote PC power management (power off, reboot, hibernate)
 - Display quotes
 - various gimmicks
-
 
 ## Views
 
