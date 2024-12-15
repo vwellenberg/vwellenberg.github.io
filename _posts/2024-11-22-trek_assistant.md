@@ -2,7 +2,7 @@
 title: "Trek Assistant"
 image: "/assets/img/screenshots/trek_assistant/ta_main.jpg"
 subtitle: "Home assistant system project"
-date: 2024-12-15
+date: 2024-11-22
 categories: [Blog]
 tags: [Home Assistant, Android, AI, Data, Automation]
 comments: true
