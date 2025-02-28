@@ -26,9 +26,7 @@ When connected successfully, a minimalist chat window opens on the desktop, allo
 - 🔄 Automatic client/server discovery via local network.
 - 📋 Manual IP fallback option provided.
 - 🔔 Adjustable settings: auto-start, sounds, vibration, and pop-up message previews on Android.
-
 - 📦 Minimalist and lightweight desktop client built with Java and Swing.
-
 - 📨 Message dispatching through various installed messenger apps via Android intents.
 - 🎨 Customizable look and feel (multiple designs available)
 
