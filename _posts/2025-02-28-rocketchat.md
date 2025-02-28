@@ -14,8 +14,6 @@ comments: true
 
 ### 📱 How RocketChat worked
 
-Android Server App: Startscreen
-
 The principle was designed to be straightforward:
 
 - **Server (Android app)**: You launch the app on your Android smartphone, which listens for incoming connections.
