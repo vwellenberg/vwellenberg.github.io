@@ -1,6 +1,6 @@
 ---
-title: "Old Projects"
-image: "/assets/img/screenshots/trek_assistant/ta_main.jpg"
+title: "RocketChat-WhatsApp-Client (2014)"
+image: "/assets/img/screenshots/rocketchat/RocketChat_online.jpg"
 subtitle: "RocketChat"
 date: 2025-02-28
 categories: [Blog]
@@ -13,8 +13,6 @@ comments: true
 **RocketChat** was created in late 2014 to comfortably send messages directly from your desktop PC – roughly one and a half years before WhatsApp officially introduced their own desktop client on May 10, 2016.
 
 ### 📱 How RocketChat worked
-
-![Android Server App: Start screen (connected)](/assets/img/screenshots/rocketchat/RocketChat_online.jpg)
 
 Android Server App: Startscreen
 
@@ -31,11 +29,7 @@ When connected successfully, a minimalist chat window opens on the desktop, allo
 - 📋 Manual IP fallback option provided.
 - 🔔 Adjustable settings: auto-start, sounds, vibration, and pop-up message previews on Android.
 
-![Settings ](/assets/img/screenshots/rocketchat/RocketChat_SharedPrefs.jpg)
-
 - 📦 Minimalist and lightweight desktop client built with Java and Swing.
-
-![Desktop Client](/assets/img/screenshots/rocketchat/RocketChat_DesktopClient.png)
 
 - 📨 Message dispatching through various installed messenger apps via Android intents.
 - 🎨 Customizable look and feel (multiple designs available)
@@ -46,8 +40,13 @@ At the time, there wasn't an official WhatsApp desktop client. Ironically, short
 
 ### 🎞 Screenshots
 
-- **Java desktop chat client**: Clean user interface, straightforward chatting experience.
-- **Android server app**: Displays your connection IP address and input for targeted phone numbers.
-- **Settings screen**: Clearly-arranged menu allowing individual customization of the Android app.
+![Android Server App: Start screen (connected)](/assets/img/screenshots/rocketchat/RocketChat_online.jpg)
+**Android server app**: Displays your connection IP address and input for targeted phone numbers.
+
+![Java desktop chat client](/assets/img/screenshots/rocketchat/RocketChat_DesktopClient.png)
+**Java desktop chat client**: Clean user interface, straightforward chatting experience.
+
+![Settings screen](/assets/img/screenshots/rocketchat/RocketChat_SharedPrefs.jpg)
+**Settings screen**: Clearly-arranged menu allowing individual customization of the Android app.
 
 A small but delightful project looking back—definitely worth a bit of nostalgic appreciation 🚀
