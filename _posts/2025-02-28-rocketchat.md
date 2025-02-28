@@ -41,12 +41,15 @@ At the time, there wasn't an official WhatsApp desktop client. Ironically, short
 ### 🎞 Screenshots
 
 ![Android Server App: Start screen (connected)](/assets/img/screenshots/rocketchat/RocketChat_online.jpg)
+
 **Android server app**: Displays your connection IP address and input for targeted phone numbers.
 
 ![Java desktop chat client](/assets/img/screenshots/rocketchat/RocketChat_DesktopClient.png)
+
 **Java desktop chat client**: Clean user interface, straightforward chatting experience.
 
 ![Settings screen](/assets/img/screenshots/rocketchat/RocketChat_SharedPrefs.jpg)
+
 **Settings screen**: Clearly-arranged menu allowing individual customization of the Android app.
 
 A small but delightful project looking back—definitely worth a bit of nostalgic appreciation 🚀
