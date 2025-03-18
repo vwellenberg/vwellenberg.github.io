@@ -9,7 +9,7 @@ comments: true
 ---
 
 Here is the first post about my home assistant system project *Trek Assistant*: A feature list and screenshots of the four Android app views with their descriptions and of the server console. More details might follow in the future.
-
+ 
 ## Features
 
 This is a partial overview of the app's functionalities:
